@@ -24,25 +24,29 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/DCxwQgy"><img src="https://i.imgur.com/DCxwQgy.png" title="source: imgur.com" /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step we are going to pretend that we are end users and create some tickets to solve and work through in this mini project. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/bYh1lNc"><img src="https://i.imgur.com/bYh1lNc.png" title="source: imgur.com" /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next we will login as an help desk user to look at the tickets created before. Assigning them to differnt users, and set some of the settings for them. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/y0RUXdt"><img src="https://i.imgur.com/y0RUXdt.png" title="source: imgur.com" /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Reworking tickets like Que Managers, ensuring the ticket is proper and make sure they make sense. 
 </p>
 <br />
+<a href="https://imgur.com/RbIbPBp"><img src="https://i.imgur.com/RbIbPBp.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/P3a37du"><img src="https://i.imgur.com/P3a37du.png" title="source: imgur.com" /></a>
+
+Afterwards, we will work or "resolve" the tickets, going back and fixing settings of each before fixing them for the user that is signed in. Switching between user to complete each ticket that was created, till none is left. 
