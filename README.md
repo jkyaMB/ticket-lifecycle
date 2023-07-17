@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<a href="https://imgur.com/DCxwQgy"><img src="https://i.imgur.com/DCxwQgy.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Lg34fqg"><img src="https://i.imgur.com/Lg34fqg.png" title="source: imgur.com" /></a>
 </p>
 <p>
 In this step we are going to pretend that we are end users and create some tickets to solve and work through in this mini project. 
@@ -32,7 +32,7 @@ In this step we are going to pretend that we are end users and create some ticke
 <br />
 
 <p>
-<a href="https://imgur.com/bYh1lNc"><img src="https://i.imgur.com/bYh1lNc.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/7ndFWnN"><img src="https://i.imgur.com/7ndFWnN.png" title="source: imgur.com" /></a>
 </p>
 <p>
 Next we will login as an help desk user to look at the tickets created before. Assigning them to differnt users, and set some of the settings for them. 
@@ -46,7 +46,7 @@ Next we will login as an help desk user to look at the tickets created before. A
 Reworking tickets like Que Managers, ensuring the ticket is proper and make sure they make sense. 
 </p>
 <br />
-<a href="https://imgur.com/RbIbPBp"><img src="https://i.imgur.com/RbIbPBp.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/P3a37du"><img src="https://i.imgur.com/P3a37du.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/roDiwp9"><img src="https://i.imgur.com/roDiwp9.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/uo18Uo7"><img src="https://i.imgur.com/uo18Uo7.png" title="source: imgur.com" /></a>
 
 Afterwards, we will work or "resolve" the tickets, going back and fixing settings of each before fixing them for the user that is signed in. Switching between user to complete each ticket that was created, till none is left. 
